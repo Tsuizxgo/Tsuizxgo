@@ -1,5 +1,6 @@
 <img align='right' src='https://github.com/chanbengz/chanbengz/blob/main/img/zelda-kendo.jpeg' width=400px> 
-## Hi there， it's Zixuan Cui👋##
+
+## Hi there， it's Zixuan Cui👋
 
 - 🔭 I’m currently working on Targert Source Detection under the guidance of Prof. Zhongqiu Wang.
 - 🌱 I’m currently learning Computer Science at SUSTech.
