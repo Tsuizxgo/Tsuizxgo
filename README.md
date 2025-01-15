@@ -1,7 +1,8 @@
 ## Hi there， it's Zixuan Cui👋
 
 - 🔭 I’m currently working on Targert Source Detection under the guidance of Prof. Zhongqiu Wang.
-- 🌱 I’m currently learning Computer Science at SUSTech。
+- 🌱 I’m currently learning Computer Science at SUSTech.
+- 👯 I’m looking to collaborate on ... anything is okay.
 - 😄 Pronouns: Him
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tsuizxgo)  
