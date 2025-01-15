@@ -1,6 +1,8 @@
 ## Hi there， it's Zixuan Cui👋
 
-🌱 I’m currently learning compute science in SUSTech
+- 🔭 I’m currently working on studying.
+- 🌱 I’m currently learning compute science in SUSTech.
+- 😄 Pronouns: Learning TargetSource Detection directed by Zhongqiu Wang.
 
 ![](https://github-readme-stats.vercel.app/api?username=Tsuizxgo)  
 
