@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Computer Science at SUSTech。
 - 😄 Pronouns: Him
 
-![](https://github-readme-stats.vercel.app/api?username=Tsuizxgo)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tsuizxgo)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
 
