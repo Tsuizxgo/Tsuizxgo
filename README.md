@@ -8,8 +8,9 @@
 - 📫 How to reach me: 12311007@mail.sustech.edu.cn
 - 😄 Pronouns: Him
 
+## My stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tsuizxgo)  
-
+## Which lauguage do I use?
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
 
 <!--
