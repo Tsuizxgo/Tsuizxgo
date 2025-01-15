@@ -9,6 +9,8 @@
 - ✍️ Blogging and tech reviews at
 - 😄 Pronouns: Him
 
+## Social
+
 ## My stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tsuizxgo)  
 ## Which lauguage do I use?
