@@ -6,7 +6,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Tsuizxgo)  
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
 
 <!--
 **Tsuizxgo/Tsuizxgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
