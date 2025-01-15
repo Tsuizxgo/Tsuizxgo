@@ -1,4 +1,5 @@
-## Hi there👋
+## Hi there， it's Zixuan Cui👋
+
 🌱 I’m currently learning compute science in SUSTech
 
 -![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tsuizxgo)  
