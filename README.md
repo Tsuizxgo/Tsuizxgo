@@ -1,4 +1,4 @@
-## Hi there， it's Zixuan Cui👋
+## Hi there， it's Zixuan Cui👋![](https://komarev.com/ghpvc/?username=Tsuizxgoe&color=blue&style=flat-square)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tsuizxgo" alt="GitHub Stats" width="48%" />
