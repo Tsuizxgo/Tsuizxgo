@@ -1,6 +1,9 @@
-<img align='right' src='https://github.com/chanbengz/chanbengz/blob/main/img/zelda-kendo.jpeg' width=400px> 
-
 ## Hi there， it's Zixuan Cui👋
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tsuizxgo" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" alt="Top Langs" width="48%" />
+</div>
 
 - 🔭 I’m currently working on Targert Source Detection under the guidance of Prof. Zhongqiu Wang.
 - 🌱 I’m currently learning Computer Science at SUSTech.
