@@ -10,7 +10,11 @@
 - 😄 Pronouns: Him
 
 ## Social
-
+| Platform                               | -                                                                                                                         |
+| -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| [Twitter](https://x.com/luoleiorg)     | ![Twitter Followers](https://badge.is26.com/twitter)                                                                      |
+| [YouTube](https://zuoluo.tv/youtube)   | ![YouTube Subscribers](https://badge.is26.com/youtube-subscribers) ![YouTube Views](https://badge.is26.com/youtube-views) |
+| [Bilibili](https://zuoluo.tv/bilibili) | ![哔哩哔哩](https://badge.is26.com/bilibili)                                                                               ｜
 ## My stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tsuizxgo)  
 ## Which lauguage do I use?
