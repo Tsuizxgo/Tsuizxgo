@@ -6,6 +6,7 @@
 - 🤔 I’m looking for help with Discrete Mathematics.
 - 💬 Ask me about Java, Postgres, or c++.
 - 📫 How to reach me: 12311007@mail.sustech.edu.cn
+- ✍️ Blogging and tech reviews at
 - 😄 Pronouns: Him
 
 ## My stats
