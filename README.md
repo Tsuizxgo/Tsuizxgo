@@ -1,7 +1,8 @@
 ## Hi there👋
 🌱 I’m currently learning compute science in SUSTech
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tsuizxgo)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
+
+-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tsuizxgo)  
+-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
 
 <!--
 **Tsuizxgo/Tsuizxgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
