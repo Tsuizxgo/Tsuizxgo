@@ -1,6 +1,6 @@
 ## Hi there， it's Zixuan Cui👋![](https://komarev.com/ghpvc/?username=Tsuizxgoe&color=blue&style=flat-square)
 
-- 🔭 I’m currently working on Audio Visual Seperation under the guidance of Prof. Zhongqiu Wang.
+- 🔭 I’m currently working on Audio Visual Speech Enhancement under the guidance of Prof. Zhongqiu Wang.
 - 🌱 I’m currently learning Computer Science at SUSTech.
 - 🤔 I’m looking for help with DeepLearning.
 - 💬 Ask me about Java, Postgres, or c++.
