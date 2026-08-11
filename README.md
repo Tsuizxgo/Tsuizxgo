@@ -2,11 +2,7 @@
 
 - 🔭 I’m currently working on Audio Visual Speech Enhancement under the guidance of Prof. Zhongqiu Wang.
 - 🌱 I’m currently learning Computer Science at SUSTech.
-- 🤔 I’m looking for help with DeepLearning.
-- 💬 Ask me about Java, Postgres, or c++.
 - 📫 How to reach me: 12311007@mail.sustech.edu.cn
-- ✍️ Blogging and tech reviews at
-- 😄 Pronouns: Him
                                                                              
 ## My stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tsuizxgo)  
