@@ -4,11 +4,10 @@
 - 🌱 I’m currently learning Computer Science at SUSTech.
 - 📫 How to reach me: 12311007@mail.sustech.edu.cn
                                                                              
-## My stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tsuizxgo)  
+<!--## My stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tsuizxgo) 
 ## Which lauguage do I use?
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tsuizxgo/Tsuizxgo/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tsuizxgo/Tsuizxgo/output/github-contribution-grid-snake.svg">
